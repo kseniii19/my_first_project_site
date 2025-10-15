@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: "Lithium";
+    src: url("../fonts/Lithium_tf.otf") format(opentype);
+    font-weight: 400 ;
+    font-style: normal ;
+}
+@font-face {
+    font-family: "PT_Sans";
+    src: url("../fonts/-WePT_Sansb-Regular.ttf") format(truetype);
+    font-weight: 400;
+    font-style: normal;
+}

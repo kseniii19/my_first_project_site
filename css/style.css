@@ -1,0 +1,5 @@
+/* Тут подключить все файлы стилей */
+
+@import "./reset.css";
+@import "./fonts.css";
+@import "./index.css";
