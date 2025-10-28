@@ -1,13 +1,19 @@
 
 @font-face {
-    font-family: "Lithium";
-    src: url("../fonts/Lithium_tf.otf") format(opentype);
-    font-weight: 400 ;
-    font-style: normal ;
+    font-family: "Helvetica";
+    src: url("../fonts/helvetica_regular.otf") format(opentype);
+    font-weight: 50 ;
+    font-style: normal;
 }
 @font-face {
     font-family: "PT_Sans";
     src: url("../fonts/-WePT_Sansb-Regular.ttf") format(truetype);
     font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Helvetica_oblique";
+    src: url("../fonts/helvetica_oblique.otf") format(opentype);
+    font-weight: 50 ;
     font-style: normal;
 }
